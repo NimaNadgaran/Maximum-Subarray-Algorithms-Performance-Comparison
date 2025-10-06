@@ -53,5 +53,7 @@ max-subarray-benchmark/
 ## 🧑‍💻 Author
 
 Developed by: [Nima Nadgaran](https://github.com/NimaNadgaran)
+
 Language: Python 3
+
 Course / Context: Algorithm analysis and performance benchmarking.
